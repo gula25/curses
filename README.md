@@ -11,5 +11,6 @@ experimenting with building a curses terminal game
 
 ## Documentation Found Here
 - https://docs.python.org/3/library/curses.html#
+- https://docs.python.org/3/howto/curses.html
 
 
